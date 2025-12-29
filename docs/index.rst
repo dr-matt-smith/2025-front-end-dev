@@ -40,9 +40,8 @@ The table of contents in the sidebar should let you easily access your topic of 
    :caption: Setting Up
    :name: sec-setup
 
-   02_setup/installation
-   02_setup/system_requirements
-   02_setup/python_versions
+   02_setup/index
+   02_setup/stack_blitz
 
 
 .. toctree::

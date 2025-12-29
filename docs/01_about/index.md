@@ -20,3 +20,11 @@ A multi-purpose workbench application is a complex tool and difficult to present
 
 
 *Have fun...*
+
+
+A taste of the power of Svelte:
+
+```{image} /01_about/images/simple_component.png
+:alt: Screenshot showing Stackblitz project where component Hello paragraph is styled different to main page paragraph
+<!-- :width: 50% -->
+```
