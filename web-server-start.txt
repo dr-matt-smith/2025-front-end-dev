@@ -1,1 +1,15 @@
 !python3 -m http.server 8000 --directory _build\html
+
+in CMD terminaL:
+C:\Users\matt>z:
+
+Z:\>cd Documents
+
+Z:\Documents>cd github
+
+Z:\Documents\github>cd 2025-front-end-dev
+
+Z:\Documents\github\2025-front-end-dev>cd docs
+
+Z:\Documents\github\2025-front-end-dev\docs>python3 -m http.server 8000 --directory _build\html
+Serving HTTP on :: port 8000 (http://[::]:8000/) ...

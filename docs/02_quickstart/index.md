@@ -12,9 +12,10 @@ Simply visit **Svelte.dev** and start hacking some code :-)
 Here is the link to the first tutorial page: [svelte.dev (tutorial)]
 
 
-```{image} /02_setup/images/svelte-tutorial.png
+```{image} /02_quickstart/images/svelte-tutorial.png
 :alt: Screenshot showing interactive online Svelte.dev hello workd tutorial
-<!-- :width: 50% -->
 ```
+<!-- :width: 50% -->
+
 
 [svelte.dev (tutorial)]: https://svelte.dev/tutorial/svelte/welcome-to-svelte

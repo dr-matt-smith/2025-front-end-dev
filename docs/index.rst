@@ -1,5 +1,5 @@
 
-.. attention:: Work in progress - these materials are still being drafted**
+.. attention:: Work in progress - **these materials are still being drafted**
 
         Any update may introduce incompatibilities with previous versions or breaking architectural changes, so always back up any data before upgrading.
 
@@ -37,11 +37,11 @@ The table of contents in the sidebar should let you easily access your topic of 
 .. toctree::
    :hidden:
    :maxdepth: 1
-   :caption: Setting Up
-   :name: sec-setup
+   :caption: Quickstart
+   :name: sec-quickstart
 
-   02_setup/index
-   02_setup/stack_blitz
+   02_quickstart/index
+   02_quickstart/stack_blitz
 
 
 .. toctree::
@@ -51,17 +51,5 @@ The table of contents in the sidebar should let you easily access your topic of 
    :name: sec-learn
 
    03_getting_started/index
-   03_getting_started/examples
-   03_getting_started/console
 
 
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-   :caption: Examples of use
-   :name: use-cases
-
-   08_use_cases/hello_world
-   08_use_cases/webapp
-   08_use_cases/sphinx

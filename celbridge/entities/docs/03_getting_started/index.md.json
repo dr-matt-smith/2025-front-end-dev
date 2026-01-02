@@ -2,7 +2,7 @@
   "_entityVersion": 1,
   "_components": [
     {
-      "editorMode": "Editor",
+      "editorMode": "EditorAndPreview",
       "_type": "Markdown.Markdown#1"
     }
   ]
