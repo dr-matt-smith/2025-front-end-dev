@@ -28,7 +28,7 @@ The table of contents in the sidebar should let you easily access your topic of 
 .. toctree::
    :hidden:
    :maxdepth: 1
-   :caption: About
+   :caption: About Module
    :name: sec-general
 
    01_about/index

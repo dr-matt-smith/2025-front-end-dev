@@ -100,3 +100,6 @@ html_js_files = [
     ('https://plausible.godot.foundation/js/script.file-downloads.outbound-links.js',
      {'defer': 'defer', 'data-domain': 'godotengine.org'}),
 ]
+
+# number figures
+numfig = True

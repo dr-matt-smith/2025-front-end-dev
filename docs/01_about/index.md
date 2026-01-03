@@ -3,11 +3,11 @@
 
 # Introduction
 
-Welcome to the learning materials for the Front-End Dev module.
+Welcome to the learning materials for the **Front-End Dev** module.
 
 ## About the module
 
-A multi-purpose workbench application is a complex tool and difficult to present in a few words. However, here are some of the key features of Celbridge:
+Some key goals of the module:
 
 - **Recap web dev skills**
 
@@ -38,10 +38,13 @@ A multi-purpose workbench application is a complex tool and difficult to present
 *Have fun...*
 
 
-A taste of the power of Svelte:
 
-```{image} /01_about/images/simple_component.png
+```{figure} /01_about/images/simple_component.png
 :alt: Screenshot showing Stackblitz project where component Hello paragraph is styled different to main page paragraph
+:align: center
+
+: A taste of the power of Svelte
 ```
+
 
 <!-- :width: 50% -->
